@@ -1,0 +1,21 @@
+{
+  "name": "atividades8e9e10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^2.0.1",
+    "body-parser": "^1.18.3",
+    "bson": "^2.0.7",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.2",
+    "mongodb": "^3.0.10",
+    "mongoose": "^5.1.3"
+  }
+}
